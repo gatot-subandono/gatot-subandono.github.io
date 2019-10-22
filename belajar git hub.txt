@@ -1,4 +1,5 @@
 belajar git hub
 1.git hub adalah software yg digunakan u merekam project repo (cloud)
 membuat file txt
-melakukan editing di file.txt
+belajar untuk mengumpulkan tugas dengan github
+berikutnya adalah mencoba kirim file dari local folder melalui git
