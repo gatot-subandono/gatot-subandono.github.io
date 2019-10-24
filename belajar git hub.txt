@@ -5,3 +5,5 @@ belajar untuk mengumpulkan tugas dengan github
 berikutnya adalah mencoba kirim file dari local folder melalui git
 
 mengulang lagi supaya lebih lancar
+
+supaya lancar jaya
