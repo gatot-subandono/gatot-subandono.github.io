@@ -1,0 +1,9 @@
+STORE " MASSA BENDA" with any value
+STORE " PERCEPATAN BENDA" with any value
+STORE " AREA" WITHOUT any value
+
+CALCULATE "MASSA BENDA" TIMES "PERCEPATAN BENDA"
+SET " AREA " value with calculation result
+
+display AREA
+
